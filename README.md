@@ -19,7 +19,8 @@ yarn install
 ``` bash
 # Dev
 yarn dev
-
+```
+```
 # Production
 yarn build
 yarn start
